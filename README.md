@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I'm currently learning Big Data / Remote Databases
+- 🌱 I'm currently working on Big Data / Remote Databases
   
 
 <!--
