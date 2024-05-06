@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🌱 I'm currently working on Remote Databases (Big Data)
-- 📫 How to reach me: sjanesasha@gmail.com
 
 *Find a few of my favorite projects under these repos*:
 - [Spotify Machine Learning Analysis](https://github.com/sjanefullerton/Spotify-Analysis)
