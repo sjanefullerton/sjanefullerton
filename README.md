@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sarah Jane Fullerton!
+# Hi there 👋, I'm Sarah Fullerton!
 
 I'm a passionate data scientist and machine learning enthusiast 🌟. I love solving real-world problems with data and building interactive, fun projects. Below, you can check out some of my favorite projects, which showcase my skills in machine learning, data analysis, and more!
 
@@ -42,4 +42,4 @@ A fun web app built with Flask and Docker to simulate Instagram-like functionali
 ## 📩 Contact Me
 Feel free to reach out if you're interested in collaborating or just want to chat about data science! 😊
 
-Email: [sjanesasha@gmail.com](mailto:sjanesasha@gmail.com)
+Email: [sarahjsfullerton@gmail.com](mailto:sarahjsfullerton@gmail.com)
