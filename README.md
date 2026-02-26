@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sarah Fullerton!
+# Hi there 👋, I'm Sarah Jane!
 
 I'm a passionate data scientist and machine learning enthusiast 🌟. I love solving real-world problems with data and building interactive, fun projects. Below, you can check out some of my favorite projects, which showcase my skills in machine learning, data analysis, and more!
 
@@ -34,10 +34,6 @@ Analyzing Twitter data related to the coronavirus pandemic 🦠.
 
 ### [“Mini Instagram” Web App](https://github.com/sjanefullerton/flask-on-docker)
 A fun web app built with Flask and Docker to simulate Instagram-like functionality 📸.
-
-## 📚 Currently Learning
-- Natural Language Processing (NLP) 📖
-- Cloud Computing ☁️
 
 ## 📩 Contact Me
 Feel free to reach out if you're interested in collaborating or just want to chat about data science! 😊
